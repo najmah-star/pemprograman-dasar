@@ -1,0 +1,7 @@
+D:\najmah adibah s_ x pplg 2\kondisi pilihan\kondisi pilihan\bin\Debug\kondisi pilihan.exe.config
+D:\najmah adibah s_ x pplg 2\kondisi pilihan\kondisi pilihan\bin\Debug\kondisi pilihan.exe
+D:\najmah adibah s_ x pplg 2\kondisi pilihan\kondisi pilihan\bin\Debug\kondisi pilihan.pdb
+D:\najmah adibah s_ x pplg 2\kondisi pilihan\kondisi pilihan\obj\Debug\kondisi pilihan.csproj.AssemblyReference.cache
+D:\najmah adibah s_ x pplg 2\kondisi pilihan\kondisi pilihan\obj\Debug\kondisi pilihan.csproj.CoreCompileInputs.cache
+D:\najmah adibah s_ x pplg 2\kondisi pilihan\kondisi pilihan\obj\Debug\kondisi pilihan.exe
+D:\najmah adibah s_ x pplg 2\kondisi pilihan\kondisi pilihan\obj\Debug\kondisi pilihan.pdb
